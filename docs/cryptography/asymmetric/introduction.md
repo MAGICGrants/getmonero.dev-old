@@ -1,6 +1,7 @@
 ---
 title: Asymmetric Cryptography in Monero
 has_children: true
+parent: Cryptography in Monero
 ---
 
 # Asymmetric Cryptography in Monero

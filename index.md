@@ -1,6 +1,7 @@
 ---
-title: GetMonero.dev Documentation
+title: Home
 layout: home
+nav_exclude: true
 ---
 
 # Unofficial Monero Documentation

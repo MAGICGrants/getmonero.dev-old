@@ -1,6 +1,6 @@
 ---
 title: Subaddress
-parent: Standard Address
+parent: Public Address
 ---
 
 # Subaddress

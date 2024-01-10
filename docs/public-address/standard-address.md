@@ -1,6 +1,6 @@
 ---
 title: Standard Address
-has_children: true
+parent: Public Address
 ---
 
 # Address

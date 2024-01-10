@@ -1,6 +1,6 @@
 ---
 title: Integrated Address
-parent: Standard Address
+parent: Public Address
 ---
 
 # Integrated Address

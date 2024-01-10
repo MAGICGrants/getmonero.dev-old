@@ -1,6 +1,7 @@
 ---
 title: Edwards25519 Elliptic Curve
 parent: Asymmetric Cryptography in Monero
+grand_parent: Cryptography in Monero
 ---
 
 # Edwards25519 Elliptic Curve

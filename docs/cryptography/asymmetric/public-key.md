@@ -1,6 +1,7 @@
 ---
 title: Public Keys in Monero
 parent: Asymmetric Cryptography in Monero
+grand_parent: Cryptography in Monero
 ---
 
 # Public Keys in Monero

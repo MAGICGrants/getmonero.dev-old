@@ -1,6 +1,7 @@
 ---
 title: Monero Private Key Image
 parent: Asymmetric Cryptography in Monero
+grand_parent: Cryptography in Monero
 ---
 
 # Monero Private Key Image

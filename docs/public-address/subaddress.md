@@ -1,6 +1,6 @@
 ---
 title: Subaddress
-has_children: true
+parent: Standard Address
 ---
 
 # Subaddress

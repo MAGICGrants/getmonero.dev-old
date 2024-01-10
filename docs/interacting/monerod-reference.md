@@ -1,6 +1,8 @@
 ---
 title: monerod - Reference
+parent: Interacting with Monero
 ---
+
 # `monerod` - Reference
 
 ## Overview

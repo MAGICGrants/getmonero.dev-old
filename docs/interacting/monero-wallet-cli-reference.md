@@ -1,9 +1,11 @@
 ---
 title: monero-wallet-cli - Reference
+parent: Interacting with Monero
 ---
+
 # `monero-wallet-cli` - Reference
 
-!!! note
+{: .note}
     Get yourself comfortable with a friendly Monero CLI wallet.
     It is the most reliable and most complete wallet for Monero.
     Use [stagenet](/infrastructure/networks) for learning.

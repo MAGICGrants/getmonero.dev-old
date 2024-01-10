@@ -1,6 +1,8 @@
 ---
 title: Monero Technical Specification
+has_children: false
 ---
+
 # Monero Technical Specs
 
 ## Live

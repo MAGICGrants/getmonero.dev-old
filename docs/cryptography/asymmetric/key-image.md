@@ -1,9 +1,11 @@
 ---
 title: Monero Private Key Image
+parent: Introduction
 ---
+
 # Monero Private Key Image
 
-!!! note
+{: .warning}
     Author is nowhere close to being a cryptographer. Be sceptical on accuracy.
 
 Private key image serves to detect double spending attempts.

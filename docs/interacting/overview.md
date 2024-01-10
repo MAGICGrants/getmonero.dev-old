@@ -1,6 +1,8 @@
 ---
 title: Interacting with Monero
+has_children: true
 ---
+
 # Interacting with Monero
 
 You can interact with Monero via desktop GUI, commandline interface, and programming API.

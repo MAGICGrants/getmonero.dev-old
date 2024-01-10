@@ -1,9 +1,11 @@
 ---
 title: monero-blockchain-export - Reference
+parent: Interacting with Monero
 ---
+
 # `monero-blockchain-export` - Reference
 
-!!! note
+{: .note}
     Nowadays, there is little usage for raw blockchain export / import. In the past the p2p blockchain download was much slower. Back than blockchain.raw file was used to speed up the process of bootstrapping a node. 
 
 ## Overview

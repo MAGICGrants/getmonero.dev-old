@@ -1,6 +1,8 @@
 ---
 title: Subaddress
+has_children: true
 ---
+
 # Subaddress
 
 Subaddress is what you should be using by default to receive Monero.

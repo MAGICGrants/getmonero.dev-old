@@ -1,6 +1,8 @@
 ---
 title: Cryptography in Monero
+has_children: true
 ---
+
 # Cryptography in Monero 
 
 Monero uses a wide variety of cryptographic primitives for various use cases.

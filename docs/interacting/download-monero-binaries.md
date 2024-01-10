@@ -1,6 +1,8 @@
 ---
 title: Download Monero
+parent: Interacting with Monero
 ---
+
 # Download Monero
 
 A single archive contains all you need to start using Monero (the full node and the wallet).

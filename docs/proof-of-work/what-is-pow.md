@@ -1,7 +1,9 @@
 ---
-title: Proof of Work
+title: About Proof of Work (General)
+parent: Proof of Work
 ---
-# Proof of Work
+
+# About Proof of Work (General)
 
 > Proof of work is a way to legitimize untrusted party
 

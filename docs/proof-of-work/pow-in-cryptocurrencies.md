@@ -1,6 +1,8 @@
 ---
 title: Proof of Work in Cryptocurrencies
+parent: Proof of Work
 ---
+
 # Proof of Work in Cryptocurrencies
 
 > Proof of work is a Sybil protection mechanism

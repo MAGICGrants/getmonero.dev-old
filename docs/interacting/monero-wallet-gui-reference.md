@@ -1,6 +1,8 @@
 ---
 title: monero-wallet-gui - Reference
+parent: Interacting with Monero
 ---
+
 # `monero-wallet-gui` - Reference
 
 ## Overview

@@ -1,9 +1,11 @@
 ---
-title: Asymmetric Cryptography in Moner
+title: Asymmetric Cryptography in Monero
+has_children: true
 ---
+
 # Asymmetric Cryptography in Monero
 
-!!! note
+{: .warning}
     Author is nowhere close to being a cryptographer. Be sceptical on accuracy.
 
 Before we get to Monero specific stuff, a little bit of context. We are talking asymmetric cryptography here.

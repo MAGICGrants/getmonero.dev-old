@@ -1,6 +1,8 @@
 ---
 title: Monero Configuration File
+parent: Interacting with Monero
 ---
+
 # Monero Configuration File
 
 ## Applicability

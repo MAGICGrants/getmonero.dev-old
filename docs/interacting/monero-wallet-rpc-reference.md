@@ -1,13 +1,14 @@
 ---
 title: monero-wallet-rpc - Reference
+parent: Interacting with Monero
 ---
 
 # `monero-wallet-rpc` - Reference
 
-!!! note
+{: .note}
     This is only relevant for programmers. Everyday users won't need `monero-wallet-rpc`.
 
-!!! note
+{: .note}
     Use [stagenet](/infrastructure/networks) for learning and development on top of `monero-wallet-rpc`.
 
 ## Overview

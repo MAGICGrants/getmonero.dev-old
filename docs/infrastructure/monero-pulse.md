@@ -1,6 +1,8 @@
 ---
 title: MoneroPulse
+parent: Infrastructure
 ---
+
 # MoneroPulse
 
 ## What is MoneroPulse?

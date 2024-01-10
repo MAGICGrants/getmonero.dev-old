@@ -1,6 +1,8 @@
 ---
 title: Tor Onion Seed Nodes for Monero P2P Network
+parent: Infrastructure
 ---
+
 # Tor onion seed nodes for Monero network
 
 

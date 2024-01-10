@@ -1,6 +1,8 @@
 ---
 title: Standard Address
+has_children: true
 ---
+
 # Address
 
 Monero public address is what you publish to get paid.

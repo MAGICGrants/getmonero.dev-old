@@ -1,12 +1,14 @@
 ---
 title: Edwards25519 Elliptic Curve
+parent: Introduction
 ---
+
 # Edwards25519 Elliptic Curve
 
-!!! note
+{: .warning}
     Author is nowhere close to being a cryptographer. Be sceptical on accuracy.
 
-!!! note
+{: .note}
     This article is only about the underlying curve. Public key derivation and signing algorithm will be treated separately. 
 
 Monero employs edwards25519 elliptic curve as a basis for its key pair generation.

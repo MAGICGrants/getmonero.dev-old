@@ -15,8 +15,10 @@ callouts:
   warning:
     title: Warning
     color: red
-  friendly:
+  note:
     color: blue
+  success:
+    color: green
 
 # Footer content
 footer_content: "Copyright &copy; MAGIC Grants and Contributors"

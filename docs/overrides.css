@@ -1,0 +1,28 @@
+
+/* Make reference options non-wrapping */
+article .md-typeset__table td:nth-child(1) {
+    white-space: nowrap;
+}
+
+/* Make reference tables occupying full width */
+article .md-typeset__table {
+    width: 100%;
+}
+
+:root {
+    --md-primary-fg-color: #121212;
+}
+
+[data-md-color-scheme="default"] {
+    --md-typeset-a-color:  #4051b5;
+}
+
+
+[data-md-color-scheme="slate"] {
+    --md-hue: 232;
+    --md-default-bg-color: #121212;
+    --md-footer-bg-color: #181818;
+    --md-footer-bg-color--dark: #181818;
+    --md-typeset-a-color:  #FF6600;
+    --md-code-bg-color: #191919;
+}

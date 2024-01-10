@@ -6,21 +6,20 @@ has_children: false
 # Running Monero Open Node + Tor Onion
 
 {: .success title="Powerful setup"}
-
-    This is great contribution to Monero network and also a pretty sophisticated personal setup. If you are a beginner, you don't need this.
+This is great contribution to Monero network and also a pretty sophisticated personal setup. If you are a beginner, you don't need this.
 
 {: .note title="The end goal"}
-    You will publicly offer the following services, where xxx.yyy.zzz.vvv is your server IP address.
-
-    * xxx.yyy.zzz.vvv:18080 - clearnet P2P service (for other nodes)
-    * xxx.yyy.zzz.vvv:18081 - clearnet RPC service (for wallets)
-    * yourlongv3onionaddress.onion:18083 - onion P2P service (for other onion nodes)
-    * yourlongv3onionaddress.onion:18081 - onion RPC service (for wallets connecting over Tor)
-
-    Why different P2P ports for clearnet and onion? This is a `monerod` requirement.
+> You will publicly offer the following services, where xxx.yyy.zzz.vvv is your server IP address.
+>
+> * xxx.yyy.zzz.vvv:18080 - clearnet P2P service (for other nodes)
+> * xxx.yyy.zzz.vvv:18081 - clearnet RPC service (for wallets)
+> * yourlongv3onionaddress.onion:18083 - onion P2P service (for other onion nodes)
+> * yourlongv3onionaddress.onion:18081 - onion RPC service (for wallets connecting over Tor)
+>
+> Why different P2P ports for clearnet and onion? This is a `monerod` requirement.
 
 {: .warning title="Warning: Broadcasting bad transactions from your IP"}
-    As with any public data broadcast or relay service, "bad traffic" or in this case "bad transactions" may appear to originate from your server IP address from an outside observer perspective - even though they really originate from a remote wallet user. This is a potential risk you need to keep in mind.
+As with any public data broadcast or relay service, "bad traffic" or in this case "bad transactions" may appear to originate from your server IP address from an outside observer perspective - even though they really originate from a remote wallet user. This is a potential risk you need to keep in mind.
 
 ## Why run this specific setup?
 

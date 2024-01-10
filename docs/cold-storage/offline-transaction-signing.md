@@ -6,18 +6,16 @@ has_children: false
 # Offline Transaction Signing
 
 {: .warning}
-    This is **NOT** necessarily the recommended cold storage setup,
-    due to high complexity, large room for errors and employing
-    a general purpose computer for transaction signing (even if offline).
-
-    Published for educational purposes only to understand "what would it take to sign offline".
-
-    It is generally better to use a hardware wallet like Trezor or Ledger.
-
-    Opinions may vary.
+> This is **NOT** necessarily the recommended cold storage setup, due to high complexity, large room for errors and employing a general purpose computer for transaction signing (even if offline).
+>
+> Published for educational purposes only to understand "what would it take to sign offline".
+> 
+> It is generally better to use a hardware wallet like Trezor or Ledger.
+>
+> Opinions may vary.
 
 {: note}
-    This is a guest tutorial contributed by [crocket](https://github.com/crocket).
+This is a guest tutorial contributed by [crocket](https://github.com/crocket).
 
 Offline transaction signing involves:
 

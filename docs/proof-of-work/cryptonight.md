@@ -68,9 +68,11 @@ See [get_block_hashing_blob()](https://github.com/monero-project/monero/blob/mas
 ## Algorithm
 
 {: .warning}
-    The article attempts to give reader a high-level understanding of the CryptoNight algorithm.
-    For implementation details refer to CryptoNote Standard and Monero source code.
-    See references at the bottom. 
+> The article attempts to give reader a high-level understanding of the CryptoNight algorithm.
+>
+> For implementation details refer to CryptoNote Standard and Monero source code.
+>
+> See references at the bottom. 
 
 ### Overview
 

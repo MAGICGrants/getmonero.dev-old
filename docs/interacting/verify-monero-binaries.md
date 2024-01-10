@@ -28,8 +28,8 @@ Trust binaryFate's public key (fingerprint must be exactly this):
     4
 
 {: .warning}
-    If key with this fingerprint was not found then remove imported key immediately (gpg --delete-keys ...).
-    That would mean the key changed (likely was compromised).
+> If key with this fingerprint was not found then remove imported key immediately (gpg --delete-keys ...).
+> That would mean the key changed (likely was compromised).
 
 ## 2. Verify signature of hash list (hashes.txt)
 
@@ -67,6 +67,6 @@ Replace the example file name with actual one:
     grep $file_hash /tmp/reference-hashes.txt
 
 {: .warning}
-    If the grep output is empty then double check everything because apparently the hashes don't match.
+If the grep output is empty then double check everything because apparently the hashes don't match.
 
 If grep printed filename and hash then everything is alright!

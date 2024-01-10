@@ -1,6 +1,6 @@
 ---
 title: Keccak-256 Hash Function
-parent: Introduction
+parent: Cryptography in Monero
 ---
 
 # Keccak-256 Hash Function

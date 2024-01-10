@@ -1,6 +1,6 @@
 ---
 title: Mainnet, Stagenet, Testnet
-parent: Infrastrcuture
+parent: Infrastructure
 ---
 
 # Networks

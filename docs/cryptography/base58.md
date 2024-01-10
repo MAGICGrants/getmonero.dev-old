@@ -1,6 +1,6 @@
 ---
 title: Base58
-parent: Introduction
+parent: Cryptography in Monero
 ---
 
 # Base58

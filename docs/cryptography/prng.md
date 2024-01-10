@@ -1,6 +1,6 @@
 ---
 title: Monero Pseudorandom Number Generator
-parent: Introduction
+parent: Cryptography in Monero
 ---
 
 # Monero Pseudorandom Number Generator

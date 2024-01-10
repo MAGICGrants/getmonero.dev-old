@@ -1,10 +1,6 @@
 ---
-title: Home
-layout: home
----
-
----
 title: GetMonero.dev Documentation
+layout: home
 ---
 
 # Unofficial Monero Documentation
